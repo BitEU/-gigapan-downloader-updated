@@ -11,4 +11,6 @@ EXCESSIVLEY DETAILED INSTRUCTIONS FOR WINDOWS, IF YOU ARE DOWNLOADING ON A DIFFE
 3. Open command prompt 
 4. In CMD, enter "cd" and paste the folder directory the file was downloaded to (If, say, you downloaded it to your user's download folder, you would enter in "cd C:\Users\YOURNAME\Downloads\
 5. Then, navigate to the http://gigapan.com/ gallery image you would like to download. If I wanted to download http://gigapan.com/galleries/7353/gigapans/138401, then I would enter I copy the 138401
-6. Go back to command prompt and enter in
+6. Go back to command prompt and enter in "python downloadGigaPan.py 138401"
+7. Please wait while the file downloads
+8. Boom! Enjoy your file!
